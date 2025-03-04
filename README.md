@@ -1,6 +1,6 @@
 # ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![imagen](https://cdn1.gnarususercontent.com.br/6/450324/9facae6f-79bf-48f3-b3a9-b4f9284802d7.png)  
+![imagen](https://github.com/NicoleBroca/Portafolio/blob/main/Portada.png)
 
 ### Este proyecto fue creado a partir de un curso de Alura Latam con el fin de obtener las bases de HTML y CSS, el resultado fue una página web correctamente organizada y estilizada.
 
